@@ -16,4 +16,4 @@ The repository contains two commits:
 1. `Phase 1: HTML skeleton and base desktop styles`
 2. `Phase 2: responsive Smart Bazaar landing page`
 
-The image assets are loaded from Unsplash, so an internet connection is needed to display them.
+
